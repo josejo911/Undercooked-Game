@@ -10,7 +10,8 @@ This game was developed as a personal project to compete with friends, the main 
 
 
 ## Usage
-Puedes descargarlo desde itch.io :  https://javierjo.itch.io/undercooked-windows-exe
+You can download from itch.io :  https://javierjo.itch.io/undercooked-windows-exe
+OR just download this repo and execute the .exe "Ejecutable Final Undercooked"
 
 ## Controls
 The game is developed for two players to participate. The controls are as follows:
